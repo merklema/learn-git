@@ -1,0 +1,3 @@
+/workspaces/learn-git/2.Semester/build/CMakeFiles/cmake_example_exec.dir
+/workspaces/learn-git/2.Semester/build/CMakeFiles/edit_cache.dir
+/workspaces/learn-git/2.Semester/build/CMakeFiles/rebuild_cache.dir

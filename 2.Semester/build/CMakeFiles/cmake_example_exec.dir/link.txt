@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cmake_example_exec.dir/2.Vorlesung/student.c++.o -o cmake_example_exec 
